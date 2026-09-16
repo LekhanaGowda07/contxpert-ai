@@ -97,8 +97,8 @@ analytics (phone, intent, confidence, source, message)
 | Context Awareness | Session history | `services/sessionManager.js` |
 
 ## Team
-- Jagruth B N (4MC22CS070)
-- Gowtham V (4MC23CS052)
 - Lakshmi S M (4MC23CS077)
 - Lekhana B S (4MC23CS078)
+- Jagruth B N (4MC22CS070)
+- Gowtham V (4MC23CS052)
 - Guide: Dr. Geetha Kiran A
